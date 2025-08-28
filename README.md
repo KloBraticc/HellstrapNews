@@ -1,0 +1,2 @@
+# HellstrapNews
+newspageforhellstrapy

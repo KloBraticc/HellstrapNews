@@ -1,7 +1,8 @@
 [
   {
-    "Title": "New fay",
+    "Title": "New Fortnite Update",
     "Content": "Fortnite version 28.0 is live now! #Update #Fortnite",
-    "ImageUrl": "https://example.com/image.png"
-  },
+    "ImageUrl": "https://example.com/image.png",
+    "Tags": ["Update", "Fortnite"]
+  }
 ]

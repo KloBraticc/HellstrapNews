@@ -3,18 +3,18 @@
     "Title": "Hellstrap Testing Phase Launched!",
     "Content": "We’re excited to announce the Hellstrap testing phase!",
     "ImageUrl": "https://hellstrap.com/images/Hellstrap.png",
-    "Tags": ["Hellstrap", "Beta", "Testing", "Update"]
+    "Tags": ["Hellstrap", "Beta", "Testing"]
   },
   {
     "Title": "New Games Added to Hellstrap",
     "Content": "Over 50+ games are supported in Hellstraps testing!",
     "ImageUrl": "https://hellstrap.com/images/new-games.png",
-    "Tags": ["Hellstrap", "Games", "Update"]
+    "Tags": ["Hellstrap", "Games"]
   },
   {
     "Title": "Community Feedback Matters",
     "Content": "Your feedback helps us improve! https://discord.gg/Vhmxr9KXQs",
     "ImageUrl": "https://hellstrap.com/images/community.png",
-    "Tags": ["Community", "Feedback", "Hellstrap"]
+    "Tags": ["Community", "Feedback"]
   }
 ]

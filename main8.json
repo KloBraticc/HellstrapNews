@@ -3,12 +3,12 @@
     "Title": "Hellstrap Testing Phase!",
     "Content": "We’re excited to announce the Hellstrap testing phase!",
     "ImageUrl": "https://hellstrap.com/images/Hellstrap.png",
-    "Tags": ["Beta", "Testing"]
+    "Tags": ["Testing"]
   },
   {
     "Title": "Community Feedback",
     "Content": "Your feedback helps us improve! https://discord.gg/Vhmxr9KXQs",
     "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OSSy9RiOBQlVZKUeoL9DaSIeE9_0hwezTecPKVSlAdpUbUYqZyNuLCyBiPACqriQvLA&usqp=CAU",
-    "Tags": ["Community", "Feedback", "Discord"]
+    "Tags": ["Feedback", "Discord"]
   }
 ]

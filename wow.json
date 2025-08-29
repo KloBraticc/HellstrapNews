@@ -1,0 +1,14 @@
+[
+  {
+    "Title": "New Fortnite Update",
+    "Content": "Fortnite version 28.0 is live now! #Update #Fortnite Check details at https://www.epicgames.com/fortnite",
+    "ImageUrl": "https://example.com/images/fortnite-update.png",
+    "Tags": ["Fortnite", "Update"]
+  },
+  {
+    "Title": "New Game Release",
+    "Content": "Check out our new game release today! #NewGame #Action",
+    "ImageUrl": "https://example.com/images/new-game.png",
+    "Tags": ["NewGame", "Action"]
+  }
+]
